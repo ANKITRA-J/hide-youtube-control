@@ -1,5 +1,5 @@
 YouTube Control Hider
-
+https://addons.mozilla.org/en-US/firefox/addon/youtube-control-hider/ 
 
 ![cropped_youtube_icon](https://github.com/user-attachments/assets/e5c00525-9a3b-4f22-a56f-4ed34b7717d7)
 
