@@ -1,0 +1,4 @@
+.hidden-controls .ytp-chrome-bottom, 
+.hidden-controls .ytp-chrome-top {
+  display: none !important;
+}
