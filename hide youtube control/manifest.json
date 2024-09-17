@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "YouTube Control Hider",
-    "version": "1.0",
+    "version": "1.2",
     "description": "Hide YouTube playback controls with Shift+H shortcut",
     "permissions": [
       "activeTab",
@@ -27,8 +27,8 @@
       }
     },
     "icons": {
-      "48": "cropped_youtube_icon.png" 
-  
+      "48": "cropped_youtube_icon.png",
+      "128": "cropped_youtube_icon(2).png"  
     }
   }
   
