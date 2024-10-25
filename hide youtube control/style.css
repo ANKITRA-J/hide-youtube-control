@@ -1,4 +1,16 @@
-.hidden-controls .ytp-chrome-bottom, 
-.hidden-controls .ytp-chrome-top {
+.hidden-controls .ytp-chrome-bottom,
+.hidden-controls .ytp-chrome-top,
+.hidden-controls .ytp-gradient-top,
+.hidden-controls .ytp-gradient-bottom,
+.hidden-controls .ytp-chrome-controls {
   display: none !important;
+  opacity: 0 !important;
+}
+
+.hidden-controls .html5-video-player:hover .ytp-chrome-bottom,
+.hidden-controls .html5-video-player:hover .ytp-gradient-top,
+.hidden-controls .html5-video-player:hover .ytp-gradient-bottom,
+.hidden-controls .html5-video-player:hover .ytp-chrome-controls {
+  opacity: 0 !important;
+  transition: none !important;
 }
